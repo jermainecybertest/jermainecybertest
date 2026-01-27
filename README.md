@@ -1,8 +1,8 @@
 <h1>Hi, I'm Jermaine! <br/><a href="https://github.com/joshmadakor1">Aspiring IT Support Technician</a>
 
-<h2>👨‍💻 IT Projects & Labs:</h2>
+<h2>👨‍💻 Technical Projects & Labs:</h2>
 
-- <b>Active Directory Home Lab</b>
+- <b>Active Windows Server Home Lab Project</b>
  
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
