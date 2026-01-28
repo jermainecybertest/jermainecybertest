@@ -1,8 +1,9 @@
-<h1>Hi, I'm Jermaine! <br/><a href="https://github.com/joshmadakor1">Aspiring IT Support Technician</a>
+<h1>Hi, I'm Jermaine! Aspiring IT Support Technician
 
 <h2>👨‍💻 Technical Projects & Labs:</h2>
 
-- <b>Active Windows Server Home Lab Project</b>
+- Windows Server 2025 Active Directory Home Lab</b>
+  - [Praciting manages users, security, and policies](https://github.com/jermainecybertest/Windows-Server-2025-Active-Directory-Home-Lab)
  
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
