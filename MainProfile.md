@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jermaine! Aspiring IT Support Technician
+<h1>Hi, I'm Jermaine!
 
 <h2>👨‍💻 Technical Projects & Labs:</h2>
 
